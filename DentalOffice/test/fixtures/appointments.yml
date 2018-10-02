@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  time: MyString
+  dentalclinic_id: 1
+  patient_id: 1
+
+two:
+  time: MyString
+  dentalclinic_id: 1
+  patient_id: 1
